@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/pickbazar/static/css/main.d3ae09f2.chunk.css",
+    "main.js": "/pickbazar/static/js/main.0c4b70a7.chunk.js",
+    "main.js.map": "/pickbazar/static/js/main.0c4b70a7.chunk.js.map",
+    "runtime-main.js": "/pickbazar/static/js/runtime-main.e0abb581.js",
+    "runtime-main.js.map": "/pickbazar/static/js/runtime-main.e0abb581.js.map",
+    "static/css/2.8a4e634e.chunk.css": "/pickbazar/static/css/2.8a4e634e.chunk.css",
+    "static/js/2.d736a409.chunk.js": "/pickbazar/static/js/2.d736a409.chunk.js",
+    "static/js/2.d736a409.chunk.js.map": "/pickbazar/static/js/2.d736a409.chunk.js.map",
+    "index.html": "/pickbazar/index.html",
+    "static/css/2.8a4e634e.chunk.css.map": "/pickbazar/static/css/2.8a4e634e.chunk.css.map",
+    "static/css/main.d3ae09f2.chunk.css.map": "/pickbazar/static/css/main.d3ae09f2.chunk.css.map",
+    "static/js/2.d736a409.chunk.js.LICENSE.txt": "/pickbazar/static/js/2.d736a409.chunk.js.LICENSE.txt",
+    "static/media/apple.ec415c97.png": "/pickbazar/static/media/apple.ec415c97.png",
+    "static/media/arrow-next.c1c2110e.svg": "/pickbazar/static/media/arrow-next.c1c2110e.svg",
+    "static/media/bread.e3638ffa.png": "/pickbazar/static/media/bread.e3638ffa.png",
+    "static/media/coffee-cup.797ea14c.png": "/pickbazar/static/media/coffee-cup.797ea14c.png",
+    "static/media/cooking-pot.7f8ce93b.png": "/pickbazar/static/media/cooking-pot.7f8ce93b.png",
+    "static/media/dog-food.695f61d6.png": "/pickbazar/static/media/dog-food.695f61d6.png",
+    "static/media/grocery.4b04b631.png": "/pickbazar/static/media/grocery.4b04b631.png",
+    "static/media/logo.f7653fd4.svg": "/pickbazar/static/media/logo.f7653fd4.svg",
+    "static/media/meat.9b666598.png": "/pickbazar/static/media/meat.9b666598.png",
+    "static/media/milk.2b5beb97.png": "/pickbazar/static/media/milk.2b5beb97.png",
+    "static/media/offer-1.e96d904b.png": "/pickbazar/static/media/offer-1.e96d904b.png",
+    "static/media/offer-2.faf9b41c.png": "/pickbazar/static/media/offer-2.faf9b41c.png",
+    "static/media/offer-3.65564ae6.png": "/pickbazar/static/media/offer-3.65564ae6.png",
+    "static/media/offer-4.3a352113.png": "/pickbazar/static/media/offer-4.3a352113.png",
+    "static/media/offer-5.e26ebbc4.png": "/pickbazar/static/media/offer-5.e26ebbc4.png",
+    "static/media/slick-theme.css": "/pickbazar/static/media/slick.c94f7671.ttf",
+    "static/media/spray.9f72bc23.png": "/pickbazar/static/media/spray.9f72bc23.png",
+    "static/media/united-states.bf988a50.png": "/pickbazar/static/media/united-states.bf988a50.png",
+    "static/media/wine.fe3602e9.png": "/pickbazar/static/media/wine.fe3602e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0abb581.js",
+    "static/css/2.8a4e634e.chunk.css",
+    "static/js/2.d736a409.chunk.js",
+    "static/css/main.d3ae09f2.chunk.css",
+    "static/js/main.0c4b70a7.chunk.js"
+  ]
+}
